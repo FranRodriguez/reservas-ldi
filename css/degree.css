@@ -1,0 +1,18 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19-feb-2015, 14:00:39
+    Author     : Fran Rodríguez
+*/
+#crear_grado {
+    float:left;
+    width:30%;
+}
+
+#gestion_grado {
+    float:left;
+    width:69%;
+}

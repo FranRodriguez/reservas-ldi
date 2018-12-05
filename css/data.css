@@ -1,0 +1,62 @@
+/* 
+    Created on : 19-feb-2015, 12:41:09
+    Author     : Fran Rodríguez
+*/
+
+.tabla_informe_cuatrimestre_1 {
+    width:100%;
+    background-color:white;
+    float:left;
+    border: 1px solid #e1e1e1;
+    border-collapse: collapse;
+}
+.tabla_informe_cuatrimestre_1 th {
+    text-align:left;
+    font-size: 14px;
+    font-weight: normal;
+    border-bottom: 1px solid #e1e1e1;
+    border-top: 1px solid #e1e1e1;
+    padding: 5px;
+   
+}
+.tabla_informe_cuatrimestre_1 td {
+    padding: 4px;
+    color: #0074a2;
+}
+.statistics_alternate {
+    background-color:#f9f9f9;
+    
+}
+
+#primer_cuatrimestre {
+    width:48%;
+    margin:1%;
+    float:left;
+}
+
+#segundo_cuatrimestre {
+    width:48%;
+    margin:1%;
+    float:left;
+}
+
+#excel {
+    clear:both;
+    background-color:white;
+    border: 1px solid #e1e1e1;
+    padding:10px;
+    margin:1%;
+    width:96%;
+}
+#excel button {
+   //float:right;
+}
+
+#excel div {
+    border-top: 1px solid #e1e1e1;
+    margin-top:1%;
+    padding-top:1%;
+}
+
+
+

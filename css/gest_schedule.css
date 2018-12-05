@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19-feb-2015, 16:00:49
+    Author     : Fran Rodríguez
+*/
+#gestion_reserva {
+    float:left;
+    width:95%;
+    padding-right:1%;
+    padding-left:1%;
+}
+
+.filtering {
+    padding-bottom:1%;
+}
+
+#dia {
+    margin-right:15px;
+}
+
+#fecha_fin {
+    margin-right:2px;
+}
+
+.LoadRecordsButton {
+    display: always;
+    margin-top:5px;
+    margin-left:5px;
+}

@@ -1,0 +1,43 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26-feb-2015, 15:13:02
+    Author     : Fran Rodríguez
+*/
+#calendario table 
+{
+    width:100%;
+    background-color:white;
+    float:left;
+    border: 1px solid #e1e1e1;
+    border-collapse: collapse;
+    table-layout:fixed;
+    //text-align:center;
+    margin-bottom:5em;
+    //display:table-column;
+}
+
+#calendario th {
+    text-align:left;
+    font-size: 14px;
+    font-weight: normal;
+    border-bottom: 1px solid #e1e1e1;
+    border-top: 1px solid #e1e1e1;
+    padding: 5px;
+    background: #B9BECD;
+}
+
+#calendario td {
+    padding: 4px;
+    color: #0074a2;
+    border-bottom: 1px solid #e1e1e1;
+
+}
+
+#hora
+{
+    width:3em !important;
+}
