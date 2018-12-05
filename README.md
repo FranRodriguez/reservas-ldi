@@ -1,0 +1,2 @@
+# reservas-ldi
+Módulo gestor del sistema de reserva de las aulas pertenecientes al Laboratorio del Departamento de Informática de la Universidad Carlos III de Madrid, que proporciona una interfaz gráfica para la gestión y visualización de las reservas en dichas aulas. Adicionalmente, este software también incluye un gestor del software instalado y las máquinas virtuales usadas en los laboratorios.
